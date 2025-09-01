@@ -24,13 +24,13 @@ Beberapa elemen yang dilatih dalam desain ini antara lain:
 - Judul aplikasi: **Malino Trip**  
 - Menggunakan **gradien warna merah** sebagai identitas visual utama.
 - ## 📱 Preview Desain
-![](Tampilan Awal.png)
+![](Tampilan-Awal.png)
 2. **Halaman Login**
 - Menyediakan input form (Email & Password).
 - Terdapat tombol *Masuk* serta opsi login menggunakan Google.
 - Fitur tambahan seperti *Lupa Password* dan *Daftar akun baru* juga ditampilkan.
 - ## 📱 Preview Desain
-![](Halaman login.png)
+![](Halaman-login.png)
 3. **Horizontal Scroll & Vertical Scroll**
 - Latihan membuat komponen card yang dapat digeser secara horizontal maupun vertikal.
 - Membiasakan penggunaan layout scroll agar konten lebih mudah diakses oleh
