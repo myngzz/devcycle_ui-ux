@@ -37,3 +37,8 @@ Beberapa elemen yang dilatih dalam desain ini antara lain:
 pengguna.
 - ## 📱 Preview Desain
 ![](Tugas.png)
+
+## ✨ Catatan
+Latihan ini dibuat sebagai bagian dari kegiatan **DevCycle** untuk mengasah kemampuan
+dalam **UI/UX Design**, khususnya dalam membangun tampilan aplikasi yang ramah
+pengguna serta konsisten dalam gaya visual.
